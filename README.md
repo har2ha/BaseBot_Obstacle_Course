@@ -15,7 +15,7 @@ The course is made up of:
 ---
 
 BaseBot Interaction with Each Obstacle
-
+---
 1. A section where the BaseBot must travel in a straight line, going over the rough terrain.
 2. The bot must stop, position itself correctly and then go up the ramp without going off the sides.
 3. The BaseBot then must turn and stay on the pathway.
@@ -25,7 +25,7 @@ BaseBot Interaction with Each Obstacle
 ---
 
 How to Run the Python Script
-
+---
 1. Open VEX Exp and start making the code to make the robot run 
 2. Connect the BasebBot Brain via USB to a computer
 3. Connect the brain and devices such as the drivetrain
@@ -35,7 +35,7 @@ How to Run the Python Script
 ---
 
 Reflection
-
+---
 What Worked Well
 - The BaseBot handled the rough terrain pretty well
 - Going over over the flowers was easy
