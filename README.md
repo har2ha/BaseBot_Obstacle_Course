@@ -5,7 +5,7 @@ Course Description and Obstacle Details
 
 The obstacle course is supposed to test the BaseBot’s ability to navigate through differnt challenges and a test of our group's ability to code and program the bot accordingly. The course includes the following obstacles:
 The course is made up of:
--  3d-printed rail way tracks
+-  3d-printed train tracks
 -  3d-printed flowers
 -  Wooden ramp
 -  Cardboard rough terrain
